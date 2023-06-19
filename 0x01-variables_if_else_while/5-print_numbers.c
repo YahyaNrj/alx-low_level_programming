@@ -1,5 +1,5 @@
-#include <stdio>
-
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * main - Prints numbers from 0 to 9.
  *
